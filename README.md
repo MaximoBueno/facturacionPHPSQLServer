@@ -1,4 +1,4 @@
-# facturacionPHPSQLServer
+# Facturacion con PHPy SQL Server
  Sistema de facturación desarrollado en PHP y SQL Server
  
 # Requisitos
