@@ -1,0 +1,115 @@
+/***********************
+   ESTILOS ESTANDAR
+************************/
+.my-tam-per{
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.border-my-buscar{
+    border-color:rgba(0, 0, 0, 0.897)  !important;
+    background-color: rgba(0, 0, 0, 0.897)  !important;
+    color: white;
+    border-radius: 0 !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.3); 
+    font-weight: bold !important;
+}
+
+.border-buscar-text{
+    border-color: black  !important;
+    border-radius: 0 !important;
+}
+
+.my-otros-span{
+    border-color: #03629a !important;
+    background-color:  #03629a !important;
+    border-radius: 0 !important;
+    color: white;
+}
+
+.my-otros-text{
+    border-color: #03629a !important;
+    border-radius: 0 !important;
+}
+
+.my-border-boton{
+    border-color: #ffc107 !important;
+}
+
+.my-header-modal{
+    border-color: #03629a !important;
+    background-color:  #03629a !important;
+    color: white;
+    border-radius: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 9px;
+}
+
+.my-cursor-mov{
+    cursor: move;
+}
+
+.my-t-header{
+    font-size: 12px;
+    background-color: white;
+}
+
+.getListaPointer{
+    cursor: pointer;
+}
+
+.my-t-body{
+    font-size: 12px;
+}
+
+.miModatTitle{
+    font-size: 9px;
+}
+
+.my-titulo-texto{
+    font-size: 22px;
+    color: #1421af;
+    line-height: 0.5em;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.my-titulo-color{
+    color: #1421af;
+    font-weight: bold;
+}
+
+.my-content-shadow{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)
+}
+
+/***********************
+   FIN ESTILOS ESTANDAR
+************************/
+
+
+.my-selectable:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.075) !important;
+}
+
+.my-t-buscado{
+    font-size: 12px;
+}
+
+/*TABLA INFORMACION PAGO*/
+.my-t-body-info{
+    font-size: 10px;
+}
+
+.my-t-header-info{
+    font-size: 11px;
+}
+
+/*TOTAL FLOTANTE XD*/
+
+.my-contenedor-float{
+    position: fixed;
+    right: 30px;
+    bottom:0px;
+}
