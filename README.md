@@ -1,5 +1,5 @@
 ## Facturacion con PHP y SQL Server
- Sistema de facturación desarrollado en PHP y SQL Server
+ CRUD completo de facturación desarrollado en PHP y SQL Server
  
 ## Requisitos
  - PHP 7.2.6
