@@ -142,7 +142,6 @@
                
             </div>
         </div>
-
       
     <!-- Modal Buscar Cliente -->
     <div class="modal fade" id="miModalBusCli" class="miModalBusUsu" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
